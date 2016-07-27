@@ -1,0 +1,61 @@
+Time Taken by Temporal ID generations for 100 iterations 3.01566339E8
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 1.02202636E8
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 1.16406595E8
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 9.4306829E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 8.8624666E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 1.10605099E8
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 9.3672496E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 6.7150488E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 3.8226681E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 3.5766279E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 3.5405917E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 3.4057616E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.6701488E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.5474531E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.816804E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.5720708E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.5451875E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.8089504E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.5342979E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.5508136E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.5567081E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 3.7554468E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.5787405E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.5374059E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.8546289E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.59331E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.6207202E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.8071023E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.5501665E7
+***********************************************************
+Time Taken by Temporal ID generations for 100 iterations 2.5490366E7
+***********************************************************
+Avg of 30 interations:  5.3416052E7
