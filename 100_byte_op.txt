@@ -1,0 +1,10 @@
+Test!!!
+***********************IMPL ISorg.iso200082.common.ISO20008Factory
+Time taken by createJoinRequest is 2.62532602E8
+Time taken by respondToJoinRequest is 6.18995632E8
+Time taken by completeJoin is 1.454602583E9
+Evaluating mechanism 4 verification
+-----------------------------------------
+Iterations:     30
+-----------------------------------------
+Time Taken is 4.8989836313E10
